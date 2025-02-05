@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DineSmart", "DineSmart\DineSmart.csproj", "{9BD385FE-E34E-4C9A-B2B1-D45AA865EA5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BD385FE-E34E-4C9A-B2B1-D45AA865EA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD385FE-E34E-4C9A-B2B1-D45AA865EA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD385FE-E34E-4C9A-B2B1-D45AA865EA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD385FE-E34E-4C9A-B2B1-D45AA865EA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {036A16C7-5605-40A4-B87D-41093A8BCF4F}
+	EndGlobalSection
+EndGlobal
